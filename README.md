@@ -2,18 +2,7 @@
 
 A responsive web application designed to estimate the success rate of In Vitro Fertilization (IVF). Users can input their details, such as age and previous pregnancy history, and receive an IVF success rate estimation.
 
-## Table of Contents
 
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Code Overview](#code-overview)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## Features
 
@@ -26,15 +15,6 @@ A responsive web application designed to estimate the success rate of In Vitro F
 
 ---
 
-## Demo
-
-### Input Screen
-![Input Screen](https://via.placeholder.com/800x400)
-
-### Result Screen
-![Result Screen](https://via.placeholder.com/800x400)
-
----
 
 ## Technologies Used
 
@@ -54,5 +34,5 @@ Ensure you have Node.js and npm installed on your system:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ivf-success-calculator.git
+   git clone https://github.com/Sangameshwar29hatti/HealthPro_Assignment/edit/master/README.md
    cd ivf-success-calculator
